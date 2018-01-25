@@ -4,7 +4,7 @@ All our class materials and HOMEWORK can be found here.
 
 To download a file:
 1. click the file
-1. right click "raw" button and choose "Save Link As" ![Screenshot](1.png)
+1. right click "raw" button and choose "Save Link As" ![Screenshot](1.png) ![Screenshot](2.png)
 
 
 1. When you save the file, make sure that it is in the exact Format (the same extension, say .pdf, .ipynb, .txt, .dat, .csv, etc...)
