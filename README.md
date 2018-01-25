@@ -1,4 +1,14 @@
-# MAT331
+# class materials and HOMEWORK 
+
+All our class materials and HOMEWORK can be found here. 
+
+To download a file:
+1. click the file
+1. right click "raw" button and choose "Save Link As" ![Screenshot](1.png)
+
+
+1. When you save the file, make sure that it is in the exact Format (the same extension, say .pdf, .ipynb, .txt, .dat, .csv, etc...)
+
 Resources:
 1. Best place to find programming related answers : https://stackoverflow.com/
 1. Basic Python3.x (required), Chapter 1 - 10 in the tutorial: https://www.py4e.com/html3/01-intro
