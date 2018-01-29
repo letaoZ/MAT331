@@ -17,3 +17,15 @@ Resources:
 1. Highly Recommended :we will NOT use R/Stan, but the stats part is useful
     1. Statistical Rethinking: A Bayesian Course with Examples in R and Stan by Richard McElreath.
     1. Bayesian Data Analysis, by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin. 3rd Edition.
+    
+# Office Hours:
+* Instructor: Dr. Letao Zhang 
+* Office Hour: Tuesday 1:30pm-2:30pm
+* Location: Math Learning Center (Math Tower Room S-235)
+
+# Office Hours:
+* TA:  Mu Zhao (mu.zhao - at - stonybrook.edu )
+* office hour: Tuesday 4:00pm-5:00pm 
+* Location: Math Tower 2-122
+* office hour: Tuesday 11:00am-11:30am
+* Location: Math Learning Center (Math Tower Room S-235)
