@@ -1,7 +1,7 @@
 # class materials and HOMEWORK 
 
 # Resources: -- can be found in the folder here or weekly folder
-1. In weekly folders, you may find some .pdf files cover what we teach in class.
+1. In weekly folders, you may find lab code and some .pdf files cover what we teach in class.
 1. Best place to find programming related answers : https://stackoverflow.com/
 1. Basic Python3.x (required), Chapter 1 - 10 in the tutorial: https://www.py4e.com/html3/01-intro
 1. Probability: prerequisite of Grinstead: Chapter 1 - 7 https://math.dartmouth.edu/~prob/prob/prob.pdf
