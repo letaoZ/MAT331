@@ -1,14 +1,5 @@
 # class materials and HOMEWORK 
 
-All our class materials and HOMEWORK can be found here. 
-
-To download a file:
-1. click the file
-1. right click "raw" button and choose "Save Link As" ![Screenshot](1.png) ![Screenshot](2.png)
-
-
-1. When you save the file, make sure that it is in the exact Format (the same extension, say .pdf, .ipynb, .txt, .dat, .csv, etc...)
-
 # Resources: -- can be found in the folder here or weekly folder
 1. In weekly folders, you may find some .pdf files cover what we teach in class.
 1. Best place to find programming related answers : https://stackoverflow.com/
@@ -20,6 +11,15 @@ To download a file:
     1. Statistical Rethinking: A Bayesian Course with Examples in R and Stan by Richard McElreath.
     1. Bayesian Data Analysis, by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin. 3rd Edition.
     
+    
+# Class materials and HOMEWORK can be found on github here or sequentially here  https://sites.google.com/site/letaoedu/teaching/spr18mat331/material. 
+
+To download a file from github
+1. click the file
+1. right click "raw" button and choose "Save Link As" ![Screenshot](1.png) ![Screenshot](2.png)
+1. When you save the file, make sure that it is in the exact Format (the same extension, say .pdf, .ipynb, .txt, .dat, .csv, etc...)
+
+
 # Office Hours:
 * Instructor: Dr. Letao Zhang 
 * Office Hour: Tuesday 1:30pm-2:30pm
