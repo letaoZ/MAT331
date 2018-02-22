@@ -1,3 +1,20 @@
+# Class Information
+
+
+# Exam Schedule
+    Final:
+    Tue May 15, 11:15am-1:45pm 
+    Final Exam Location: TBA
+    
+    Midterm: 
+    - Tue Mar. 06 (in-class)
+
+    Quiz (30 minutes each, in-class) schedule:
+    - Tue Feb. 13
+    - Tue Mar. 27
+    - Tue Apr. 10
+    - Tue Apr. 24
+
 # class materials and HOMEWORK 
 
 # Resources: -- can be found in the folder here or weekly folder
