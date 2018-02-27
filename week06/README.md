@@ -3,3 +3,4 @@
 
 - Wrap up Test Hypothesis
 - Introduce Maximal Likelihood Estimation
+- Review for midterm
