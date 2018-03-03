@@ -24,11 +24,7 @@
 1. Probability: prerequisite of Grinstead: Chapter 1 - 7 https://math.dartmouth.edu/~prob/prob/prob.pdf
 1. Probability: we will cover the rest of Grinstead
 1. Data analysis and statistics, we will cover some of the following books  https://github.com/letaoZ/MAT331/blob/master/Advanced%20Data%20Analysis%20from%20an%20Elementary%20Point%20of%20View.pdf
-1. Highly Recommended :we will NOT use R/Stan, but the stats part is useful
-    1. Statistical Rethinking: A Bayesian Course with Examples in R and Stan by Richard McElreath.
-    1. Bayesian Data Analysis, by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin. 3rd Edition.
-    
-    
+
 # Class materials and HOMEWORK can be found on github here or sequentially here  https://sites.google.com/site/letaoedu/teaching/spr18mat331/material. 
 
 To download a file from github
