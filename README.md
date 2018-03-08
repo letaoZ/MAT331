@@ -22,8 +22,9 @@
 1. Best place to find programming related answers : https://stackoverflow.com/
 1. Basic Python3.x (required), Chapter 1 - 10 in the tutorial: https://www.py4e.com/html3/01-intro
 1. Probability: prerequisite of Grinstead: Chapter 1 - 7 https://math.dartmouth.edu/~prob/prob/prob.pdf
-1. Probability: we will cover the rest of Grinstead
-1. Data analysis and statistics, we will cover some of the following books  https://github.com/letaoZ/MAT331/blob/master/Advanced%20Data%20Analysis%20from%20an%20Elementary%20Point%20of%20View.pdf
+1. Probability: we will cover the rest of Grinstead, and do simulations like the book suggested
+1. For those who have a statistics back ground, you may checkout the book Data analysis and statistics, we will cover some of the following books: https://github.com/letaoZ/MAT331/blob/master/Advanced%20Data%20Analysis%20from%20an%20Elementary%20Point%20of%20View.pdf
+
 
 # Class materials and HOMEWORK can be found on github here or sequentially here  https://sites.google.com/site/letaoedu/teaching/spr18mat331/material. 
 
