@@ -27,7 +27,7 @@
 - [Lec05 Hypothesis Testing --  examples](https://github.com/letaoZ/MAT331/blob/master/week05/Intro_Hyp_Testing%20.pdf)
 - [Lec04 How to use z-table](https://github.com/letaoZ/MAT331/blob/master/week05/Use_of_z_table.pdf)
 
-### week 06 - ALL linear regressions you can build in Python. Intro to Naive Bayes == maximal likelihood estimation and Linear regression as its applicaiton.
+### week 06 - ALL linear regressions you can build in Python. Intro to Naive Bayes == maximal likelihood estimation and Linear regression as its applicaiton (without proof, will prove later)
 - [Lec06 More Hypothesis Testing -- summarize double sided vs one sided p](https://github.com/letaoZ/MAT331/blob/master/week06/Lecture06.pdf)
 - [Lec06 Maximal Likelihood estimation -- Linear regression is a special example](MLE.pdf)
 - [linear regression -- different descents methods](https://github.com/letaoZ/MAT331/blob/master/week06/01linear_regression_descent.ipynb)
@@ -48,6 +48,17 @@
 - [Lab09 An example to see variance and acceptance rate using: Monte Carlo, Rejection sampling (w/o Steroids), Importance sampling](https://github.com/letaoZ/MAT331/blob/master/week09/Importance%20sampling%2C%20Rejection%20Sampling%2C%20and%20Variance%20Reduction.ipynb)
 - [Lab09 Importance sampling -- use caution](https://github.com/letaoZ/MAT331/blob/master/week09/importance_sampling.ipynb)
 
+### week 10 -- Errors: Monte Carlo, Trapezoid Rule, Left integration. Detailed proof of linear regression as MLE.
+- [Lab10 Compare variance amount "Monte Carlo, Trapezoid Rule, Left integration"](https://github.com/letaoZ/MAT331/blob/master/week10/HW10_lab.ipynb)
+- [Lec10 Linear regression as MLE.](https://github.com/letaoZ/MAT331/blob/master/week10/Lecture10.pdf)
 
+### week 11 -- Timing code and Matrix operations in Python (numpy is faster). Markov Chain.
+- [Lab11 Matrices in Python](https://github.com/letaoZ/MAT331/blob/master/week11/Lab11_more.ipynb)
+- [Lab11 Tming your code](https://github.com/letaoZ/MAT331/blob/master/week11/Lab11_timing.ipynb)
+- [Lec11 Markov Chain](https://github.com/letaoZ/MAT331/blob/master/week11/Lecture11.pdf)
 
+### week 12 -- properties of  different states of Markov chains
+- [Lab12 Markov Chain Simulation and Recursion properties](https://github.com/letaoZ/MAT331/blob/master/week12/Lab12.ipynb)
+- [Lab12 When to round your answer for stable matrices?](https://github.com/letaoZ/MAT331/blob/master/week12/Lab12_hint.ipynb)
+- [Lec12 Markov Chain: different states properties: transient, recurrent or absorbing] https://github.com/letaoZ/MAT331/blob/master/week12/lecture12.pdf
 
