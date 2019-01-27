@@ -24,7 +24,6 @@ Detailed class info can be found [here](https://sites.google.com/site/letaoedu/t
 ### week 04 -  Inplement inverse sampling method; Plot "probability". The amazing Normal Distribution - everything is Normal.
 - [Lab04 density vs histogram; pdf and cdf](https://github.com/letaoZ/MAT331/blob/master/week04/Lab04.ipynb)
 - [Lab04 Inverse sampling by samples and by cdf](https://github.com/letaoZ/MAT331/blob/master/week04/Lab04_inversetransform.ipynb)
-- [Lab04 Importance Sampling summary]
 - [Lec04 Normal distribution](https://github.com/letaoZ/MAT331/blob/master/week04/lecture04.pdf)
 
 ### week 05- Visualization of Central Limit and Law of Large Number. From central limit to normal, and to Hypothesis testing.
