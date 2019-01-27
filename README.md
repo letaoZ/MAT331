@@ -67,4 +67,4 @@
 - [Lab13 A whole process of determining if a chain is absorbing, if so find time and probability of absorption](https://github.com/letaoZ/MAT331/blob/master/week13/Lab13.ipynb)
 
 ## week 14 -- Ergodic Markov Chain
-- [Lec14 Ergodic Markov Chain and Average effect](https://github.com/letaoZ/MAT331/blob/master/week14/lecture14.pdf)
+- [Lec14 Ergodic Markov Chain, Random Walks](https://github.com/letaoZ/MAT331/blob/master/week14/lecture14.pdf)
