@@ -60,7 +60,7 @@
 ### week 12 -- properties of  different states of Markov chains
 - [Lab12 Markov Chain Simulation and Recursion properties](https://github.com/letaoZ/MAT331/blob/master/week12/Lab12.ipynb)
 - [Lab12 When to round your answer for stable matrices?](https://github.com/letaoZ/MAT331/blob/master/week12/Lab12_hint.ipynb)
-- [Lec12 Markov Chain: different states properties: transient, recurrent or absorbing] https://github.com/letaoZ/MAT331/blob/master/week12/lecture12.pdf
+- [Lec12 Markov Chain: different states properties: transient, recurrent or absorbing](https://github.com/letaoZ/MAT331/blob/master/week12/lecture12.pdf)
 
 ## week 13 -- Determine Chain types by simulation in Python and by graph operation. Calculate time to absorption and probability.
 - [Lec13 Determine if a markov chain is an absorbing](https://github.com/letaoZ/MAT331/blob/master/week13/lecture13.pdf)
