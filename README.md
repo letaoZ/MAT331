@@ -38,9 +38,16 @@
 
 ### week 07 - seaborn and Mixture model -- graphical representation of "Not so naive Bayes". Review
 - [Lab07 linespace vs arrange; Python plot "density" does not work](https://github.com/letaoZ/MAT331/blob/master/week07/Lab07.ipynb)
+- [Lab07 Frequency stats visualization and calculations](https://github.com/letaoZ/MAT331/blob/master/week07/Frequency%20stats%202-D%20visualization.ipynb)
 - [Lab07 First mixture model and seaborn is a good plot tool](https://github.com/letaoZ/MAT331/blob/master/week07/hierarchy_linear.ipynb)
 
 ### week 08 -- spring break
+
+### week 09 -- Monte Carlo, rejection sampling, importance sampling. More maximal likelihood estimation.
+- [lab09 Monte Carlo](https://github.com/letaoZ/MAT331/blob/master/week09/inclasslab09.ipynb)
+- [Lab09 An example to see variance and acceptance rate using: Monte Carlo, Rejection sampling (w/o Steroids), Importance sampling](https://github.com/letaoZ/MAT331/blob/master/week09/Importance%20sampling%2C%20Rejection%20Sampling%2C%20and%20Variance%20Reduction.ipynb)
+- [Lab09 Importance sampling -- use caution](https://github.com/letaoZ/MAT331/blob/master/week09/importance_sampling.ipynb)
+
 
 
 
