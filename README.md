@@ -1,7 +1,3 @@
----
-title: Topic Index
-shorttitle: Topics
-layout: default
----
+# Mathematical problems solving with Python -- Probability, Statistics and Machine Learning
 
 ### week01 - introduction to python
