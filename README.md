@@ -18,6 +18,7 @@
 ### week 04 -  Inplement inverse sampling method; Plot "probability". The amazing Normal Distribution - everything is Normal.
 - [Lab04 density vs histogram; pdf and cdf](https://github.com/letaoZ/MAT331/blob/master/week04/Lab04.ipynb)
 - [Lab04 Inverse sampling by samples and by cdf](https://github.com/letaoZ/MAT331/blob/master/week04/Lab04_inversetransform.ipynb)
+- [Lab04 Importance Sampling summary]
 - [Lec04 Normal distribution](https://github.com/letaoZ/MAT331/blob/master/week04/lecture04.pdf)
 
 ### week 05- Visualization of Central Limit and Law of Large Number. From central limit to normal, and to Hypothesis testing.
@@ -26,7 +27,7 @@
 - [Lec05 Hypothesis Testing --  examples](https://github.com/letaoZ/MAT331/blob/master/week05/Intro_Hyp_Testing%20.pdf)
 - [Lec04 How to use z-table](https://github.com/letaoZ/MAT331/blob/master/week05/Use_of_z_table.pdf)
 
-### week 06 - ALL linear regressions you can build in Python. Intro to maximal likelihood estimation and Linear regression as its applicaiton.
+### week 06 - ALL linear regressions you can build in Python. Intro to Naive Bayes == maximal likelihood estimation and Linear regression as its applicaiton.
 - [Lec06 More Hypothesis Testing -- summarize double sided vs one sided p](https://github.com/letaoZ/MAT331/blob/master/week06/Lecture06.pdf)
 - [Lec06 Maximal Likelihood estimation -- Linear regression is a special example](MLE.pdf)
 - [linear regression -- different descents methods](https://github.com/letaoZ/MAT331/blob/master/week06/01linear_regression_descent.ipynb)
@@ -34,3 +35,12 @@
 - [linear regression with Cross Validation](https://github.com/letaoZ/MAT331/blob/master/week06/00linear_regression_CV.ipynb)
 - [linear regression with Lasso](https://github.com/letaoZ/MAT331/blob/master/week06/03linear_regression_Lasso.ipynb)
 - [linear regression with Ridge](https://github.com/letaoZ/MAT331/blob/master/week06/04linear_regression_Ridge.ipynb)
+
+### week 07 - seaborn and Mixture model -- graphical representation of "Not so naive Bayes". Review
+- [Lab07 linespace vs arrange; Python plot "density" does not work](https://github.com/letaoZ/MAT331/blob/master/week07/Lab07.ipynb)
+- [Lab07 First mixture model and seaborn is a good plot tool](https://github.com/letaoZ/MAT331/blob/master/week07/hierarchy_linear.ipynb)
+
+### week 08 -- spring break
+
+
+
