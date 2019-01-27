@@ -1,4 +1,4 @@
-# Solvign Math related questions with Python
+# Solve Math related questions with Python
 
     Probability, Statistics and Machine Learning
     References: 
