@@ -1,5 +1,6 @@
 # Solvign Math related questions with Python
     Probability, Statistics and Machine Learning
+    References: Grinstead and Snell's ntroduction to Probability; Advanced Data Analysis from an Elementary Point of View
 
 ### week 01 - introduction to Python, statists VS mathematics
 - [Lab01 Python installation](https://github.com/letaoZ/MAT331/blob/master/week01/lab01.pdf)
