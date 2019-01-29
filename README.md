@@ -2,7 +2,7 @@
 
     Probability, Statistics and Machine Learning
     References: 
-    Grinstead and Snell's ntroduction to Probability; 
+    Grinstead and Snell's Introduction to Probability; 
     Advanced Data Analysis from an Elementary Point of View
     
 Detailed class info can be found [here](https://sites.google.com/site/letaoedu/teaching/spr18mat331)   
