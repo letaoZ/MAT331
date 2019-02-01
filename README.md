@@ -50,7 +50,7 @@ Detailed class info can be found [here](https://sites.google.com/site/letaoedu/t
 
 ### week 09 -- Monte Carlo, rejection sampling, importance sampling. More maximal likelihood estimation.
 - [lab09 Monte Carlo](https://github.com/letaoZ/MAT331/blob/master/week09/inclasslab09.ipynb)
-- [Lab09 An example to see variance and acceptance rate using: Monte Carlo, Rejection sampling (w/o Steroids), Importance sampling](https://github.com/letaoZ/MAT331/blob/master/week09/Importance%20sampling%2C%20Rejection%20Sampling%2C%20and%20Variance%20Reduction.ipynb)
+- [Lab09 An example to see variance and acceptance rate using: Monte Carlo, Rejection sampling (w/o Steroids), Importance sampling](https://github.com/letaoZ/MAT331/blob/master/week10/Lab10.ipynb)
 - [Lab09 Importance sampling -- use caution](https://github.com/letaoZ/MAT331/blob/master/week09/importance_sampling.ipynb)
 
 ### week 10 -- Errors: Monte Carlo, Trapezoid Rule, Left integration. Detailed proof of linear regression as MLE.
