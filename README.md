@@ -34,7 +34,7 @@ Detailed class info can be found [here](https://sites.google.com/site/letaoedu/t
 
 ### week 06 - ALL linear regressions you can build in Python. Intro to Naive Bayes == maximal likelihood estimation and Linear regression as its applicaiton (without proof, will prove later)
 - [Lec06 More Hypothesis Testing -- summarize double sided vs one sided p](https://github.com/letaoZ/MAT331/blob/master/week06/Lecture06.pdf)
-- [Lec06 Maximal Likelihood estimation -- Linear regression is a special example](MLE.pdf)
+- [Lec06 Maximal Likelihood estimation -- Linear regression is a special example](https://github.com/letaoZ/MAT331/blob/master/week06/MLE.pdf)
 - [linear regression -- different descents methods](https://github.com/letaoZ/MAT331/blob/master/week06/01linear_regression_descent.ipynb)
 - [linear regression using Theano](https://github.com/letaoZ/MAT331/blob/master/week06/02linear_regression_Theono.ipynb)
 - [linear regression with Cross Validation](https://github.com/letaoZ/MAT331/blob/master/week06/00linear_regression_CV.ipynb)
